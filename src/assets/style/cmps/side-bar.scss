@@ -1,0 +1,29 @@
+.side-bar {
+
+    background-color: $clr6;
+    width: 450px;
+
+    .top-section {
+        background: rgb(253, 49, 112);
+        background: linear-gradient(90deg, rgba(253, 49, 112, 1) 0%, rgba(254, 94, 56, 1) 100%);
+        height: 70px;
+        padding: 30px;
+        color: white;
+    }
+
+    .main-side {
+        margin: 15px;
+    }
+
+    // .screen-btns {
+    //     margin-top: 15px;
+    // }
+
+    .markScr {
+        border-bottom: 3px solid $clr3;
+    }
+
+    .matches-screen {
+        margin-right: 17px;
+    }
+}
